@@ -8,6 +8,7 @@ class MegumiApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
