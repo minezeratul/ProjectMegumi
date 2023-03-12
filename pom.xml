@@ -15,14 +15,10 @@
     <description>megumi</description>
     <modules>
         <module>common</module>
-        <module>common/common_util</module>
-        <module>common/service_util</module>
         <module>model</module>
         <module>service</module>
-        <module>common/service_util</module>
     </modules>
     <packaging>pom</packaging>
-
 
     <properties>
         <java.version>1.8</java.version>
@@ -138,5 +134,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

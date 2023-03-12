@@ -1,13 +1,13 @@
 package com.megumi;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MegumiApplication {
+public class ServiceHospApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MegumiApplication.class, args);
+        SpringApplication.run(ServiceHospApplication.class, args);
     }
-
 }
