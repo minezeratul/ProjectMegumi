@@ -1,8 +1,8 @@
 package com.megumi.vo.order;
 
+import com.megumi.vo.msm.MsmVo;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import jw.hospital.vo.msm.MsmVo;
 import lombok.Data;
 
 @Data

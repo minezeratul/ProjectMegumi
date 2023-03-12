@@ -10,6 +10,11 @@
     </parent>
 
     <version>1.0</version>
+    <artifactId>service-hosp</artifactId>
+    <packaging>jar</packaging>
+    <name>service-hosp</name>
+    <description>service-hosp</description>
+
     <dependencies>
 
     </dependencies>
@@ -22,11 +27,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-    </build>
 
-    <artifactId>service-hosp</artifactId>
-    <packaging>jar</packaging>
-    <name>service-hosp</name>
-    <description>service-hosp</description>
+    </build>
 
 </project>

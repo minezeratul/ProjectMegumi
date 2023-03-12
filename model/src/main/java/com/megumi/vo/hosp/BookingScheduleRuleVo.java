@@ -7,13 +7,7 @@ import lombok.Data;
 
 import java.util.Date;
 
-/**
- * <p>
- * RegisterRule
- * </p>
- *
- * @author qy
- */
+
 @Data
 @ApiModel(description = "可预约排班规则数据")
 public class BookingScheduleRuleVo {

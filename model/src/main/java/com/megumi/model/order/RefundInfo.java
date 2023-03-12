@@ -2,9 +2,9 @@ package com.megumi.model.order;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;
+import com.megumi.model.base.BaseEntity;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
-import jw.hospital.model.base.BaseEntity;
 import lombok.Data;
 
 import java.math.BigDecimal;
